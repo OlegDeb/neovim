@@ -1,0 +1,13 @@
+# Neovim
+.lazy/
+.luarc.json
+
+# Swap, backup, undo файлы
+*.swp
+*.swo
+*.swm
+*.un~
+*.bak
+
+# Локальные настройки (если хочешь иметь отдельные для разных машин)
+lua/local.lua
